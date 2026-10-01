@@ -1,4 +1,4 @@
-# checkpoint02-energia-renovavel
+
 # APIs de Energia Renovável e Aprendizado de Máquina
 
 **Projeto acadêmico — Ciência da Computação | FIAP**
@@ -83,8 +83,9 @@ Os dados históricos do Open-Meteo são provenientes de modelos meteorológicos 
 ### 1. Clonar o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
-cd NOME_DO_REPOSITORIO
+git clone https://github.com/Dustyluc123/checkpoint02-energia-renovavel.git
+ 
+cd checkpoint02-energia-renovavel
 ```
 
 Substitua os valores acima pelo endereço e nome do repositório no GitHub.
