@@ -146,7 +146,7 @@ A avaliação considerou Accuracy, Precision, Recall e F1-score, utilizando méd
 
 O KNN apresentou os maiores valores nas métricas avaliadas, seguido pela Árvore de Decisão.
 
-A análise das matrizes de confusão identificou ocorrências de classificação incorreta principalmente entre as fontes Solar e Eólica.
+No KNN e na Árvore de Decisão os erros são poucos (26 e 28 em 776 amostras) e a confusão mais frequente é entre Solar e Hidráulica. A confusão forte entre Solar e Eólica aparece apenas na Regressão Logística (51 casos), por ser um modelo linear que não separa bem as regiões geográficas.
 
 ### Tarefa 2 — Regressão
 
